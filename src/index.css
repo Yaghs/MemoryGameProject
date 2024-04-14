@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Montserrat:wght@300&family=Open+Sans:ital,wght@1,300&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:wght@300&display=swap');
+body {
+  font-family: Raleway, sans-serif;
+  margin:0;
+  font-size: 1.5em;
+  text-align: center;
+  background: #1b1523;
+  color: #fff;
+}
+
